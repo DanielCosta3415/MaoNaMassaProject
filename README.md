@@ -1,27 +1,30 @@
-# TÍTULO DO PROJETO
+# Mão na Massa
 
-`CURSO`
+`Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`Eixo 3 - Projeto: Desenvolvimento de uma Aplicação Móvel em um Ambiente de Negócio`
 
-`SEMESTRE`
+`3° SEMESTRE`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O projeto Mão na Massa consiste no desenvolvimento de um aplicativo mobile de intermediação de serviços, no qual usuários podem se cadastrar como clientes ou profissionais. O sistema permitirá que clientes busquem e solicitem serviços próximos à sua localização, enquanto profissionais poderão gerenciar seus perfis, portfólios e atendimentos. A aplicação incluirá funcionalidades de agendamento, orçamentos, pagamentos online e avaliações, organizando de forma prática e segura a contratação de serviços. 
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Alex Junio Aguilar Ferreira 
+* Daniel Lopes da Costa
+* Hugo Cesar Ribeiro Caldeira
+* Lorena Marta Martiniana de Paula
+* Lukas Maciel Duarte
+* Pedro Henrique Ramos Coutinho
+* Tobias Viana Paiva
 
 ## Orientador
 
-* Nome completo do professor 1
+* Will Ricardo dos Santos Machado
 
 ## Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+Descrever as instruções de utilização!
 
 # Documentação
 
@@ -41,10 +44,10 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 <li><a href="docs/13-Referências.md"> Referências</a></li>
 </ol>
 
-# Código
+# Código-Fonte
 
-<li><a href="src/README.md"> Código Fonte</a></li>
+<li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/ICEI-PUC-Minas-ADS-pmv-ads-2025-1-e2-proj-int-t8"> Código Fonte</a></li>
 
 # Apresentação
 
-<li><a href="presentation/README.md"> Apresentação da solução</a></li>
+<li><a href="presentation/README.md"> Apresentação da Solução</a></li>
