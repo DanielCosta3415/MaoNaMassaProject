@@ -46,7 +46,7 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 
 # Código-Fonte
 
-<li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/ICEI-PUC-Minas-ADS-pmv-ads-2025-1-e2-proj-int-t8"> Código Fonte</a></li>
+<li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/MovApplicationProject-Template/blob/main/src/README.md"> Código Fonte</a></li>
 
 # Apresentação
 
