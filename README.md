@@ -24,7 +24,7 @@ O projeto Mão na Massa consiste no desenvolvimento de um aplicativo mobile de i
 
 ## Instruções de utilização
 
-Descrever as instruções de utilização!
+Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
 
 # Documentação
 
