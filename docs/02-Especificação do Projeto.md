@@ -80,11 +80,11 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 - Could have (C) → Desejáveis, mas podem ser adiados se houver falta de tempo;
 - Won’t have (W) → Fora de escopo neste ciclo (planejados para versões futuras).
 
-Os critérios de decisão que foram usados são:
+Os critérios de decisão usados são:
 
 - Complexidade de implementação (tempo, curva técnica, dependência externa);
 - Impacto no valor entregue (é core do fluxo? indispensável para demo?);
-- Prazo acadêmico (o que cabe dentro do tempo até a entrega na PUC-MG);
+- Prazo acadêmico (o que cabe dentro do prazo de entrega de cada uma das etapas existentes no eixo 3);
 - Dependência de integrações externas (pagamentos, push, reconhecimento facial aumentam risco).
 
 ### Requisitos Funcionais
