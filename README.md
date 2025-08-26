@@ -16,7 +16,7 @@ O projeto Mão na Massa consiste no desenvolvimento de um aplicativo mobile de i
 * Lorena Marta Martiniana de Paula
 * Lukas Maciel Duarte
 * Pedro Henrique Ramos Coutinho
-* Tobias Viana Paiva
+* Tobias Quintao Bastos Domingos
 
 ## Orientador
 
