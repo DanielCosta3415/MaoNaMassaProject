@@ -87,6 +87,22 @@ Os critérios de decisão usados são:
 - Prazo acadêmico (o que cabe dentro do prazo de entrega de cada uma das etapas existentes no eixo 3);
 - Dependência de integrações externas (pagamentos, push, reconhecimento facial aumentam risco).
 
+A aplicação prática da técnica MoSCoW seria:
+
+- Must (M): requisitos indispensáveis para ter um fluxo ponta a ponta funcional e apresentável (ex.: autenticação OTP, criação de pedidos, aceite, conclusão, avaliação);
+- Should (S): importantes para enriquecer a experiência, mas que, se não ficarem prontos, o MVP ainda é válido (ex.: abrir rota no mapa, admin simples, logs estruturados);
+- Could (C): funcionalidades legais, mas complexas e que podem ser deixadas para uma segunda fase (ex.: chat, push notifications, taxa de orçamento);
+- Won’t (W): explícitos fora do MVP, seja pela alta complexidade ou por depender de infraestrutura extra (pagamentos online completos, reconhecimento facial/KYC, observabilidade avançada).
+
+Um exemplo concreto seria:
+
+- RF-001 – Autenticação OTP → Must, pois sem login não há fluxo;
+- RF-007 – Listar profissionais próximos → Must, porque é o core do app;
+- RF-008 – Abrir rotas no app de mapas → Should, melhora UX, mas não trava o MVP;
+- RF-010 – Fluxo completo do pedido → Must, núcleo da entrega;
+- RF-012 – Avaliação → Should/Must borderline, mas ficou Must no MVP simplificado porque entrega credibilidade ao marketplace;
+- Pagamentos/Webhooks → Won’t (ficam para depois, risco alto para o prazo).
+
 ### Requisitos Funcionais
 
 |ID    | Descrição do Requisito  | Prioridade |
