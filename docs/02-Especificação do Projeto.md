@@ -73,7 +73,12 @@ Obs.: todas as informações para gerar os indicadores devem estar no diagrama d
 
 ## Requisitos
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto. Para determinar a prioridade de requisitos, aplicar uma técnica de priorização de requisitos e detalhar como a técnica foi aplicada.
+As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto. Para determinar a prioridade dos requisitos foi aplicada a técnica MoSCoW, que é bastante comum em projetos ágeis pela simplicidade e clareza. Ela classifica os requisitos em quatro categorias:
+
+- Must have (M) → Essenciais, sem eles o sistema não funciona (obrigatórios).
+- Should have (S) → Importantes, mas não críticos para a primeira entrega.
+- Could have (C) → Desejáveis, mas podem ser adiados se houver falta de tempo.
+- Won’t have (W) → Fora de escopo neste ciclo (planejados para versões futuras).
 
 ### Requisitos Funcionais
 
