@@ -6,7 +6,7 @@
 
 `3° SEMESTRE`
 
-O projeto Mão na Massa consiste no desenvolvimento de um aplicativo mobile de intermediação de serviços, no qual usuários podem se cadastrar como clientes ou profissionais. O sistema permitirá que clientes busquem e solicitem serviços próximos à sua localização, enquanto profissionais poderão gerenciar seus perfis, portfólios e atendimentos. A aplicação incluirá funcionalidades de agendamento, orçamentos, pagamentos online e avaliações, organizando de forma prática e segura a contratação de serviços. 
+O projeto Mão na Massa consiste no desenvolvimento de um aplicativo mobile de intermediação de serviços, no qual os usuários podem se cadastrar como clientes ou profissionais. O sistema permitirá que clientes busquem e solicitem serviços próximos à sua localização, enquanto profissionais poderão gerenciar seus perfis, portfólios e atendimentos. A aplicação incluirá funcionalidades de agendamento, orçamentos, pagamentos online e avaliações, organizando de forma prática e segura a contratação de serviços. 
 
 ## Integrantes
 
