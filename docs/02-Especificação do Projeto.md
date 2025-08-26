@@ -71,14 +71,21 @@ Usar o seguinte modelo:
 ![Indicadores de Desempenho](img/02-indic-desemp.png)
 Obs.: todas as informações para gerar os indicadores devem estar no diagrama de classe a ser apresentado a posteriori. 
 
-## Requisitos
+## Requisitos Funcionais e Não Funcionais
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto. Para determinar a prioridade dos requisitos foi aplicada a técnica MoSCoW, que é bastante comum em projetos ágeis pela simplicidade e clareza. Ela classifica os requisitos em quatro categorias:
+As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto Mão na Massa. Para determinar a prioridade dos requisitos foi aplicada a técnica MoSCoW, que é bastante comum em projetos ágeis pela simplicidade e clareza. Ela classifica os requisitos em quatro categorias:
 
-- Must have (M) → Essenciais, sem eles o sistema não funciona (obrigatórios).
-- Should have (S) → Importantes, mas não críticos para a primeira entrega.
-- Could have (C) → Desejáveis, mas podem ser adiados se houver falta de tempo.
+- Must have (M) → Essenciais, sem eles o sistema não funciona (obrigatórios);
+- Should have (S) → Importantes, mas não críticos para a primeira entrega;
+- Could have (C) → Desejáveis, mas podem ser adiados se houver falta de tempo;
 - Won’t have (W) → Fora de escopo neste ciclo (planejados para versões futuras).
+
+Os critérios de decisão que foram usados são:
+
+- Complexidade de implementação (tempo, curva técnica, dependência externa);
+- Impacto no valor entregue (é core do fluxo? indispensável para demo?);
+- Prazo acadêmico (o que cabe dentro do tempo até a entrega na PUC-MG);
+- Dependência de integrações externas (pagamentos, push, reconhecimento facial aumentam risco).
 
 ### Requisitos Funcionais
 
