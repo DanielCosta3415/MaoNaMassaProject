@@ -73,7 +73,7 @@ Obs.: todas as informações para gerar os indicadores devem estar no diagrama d
 
 ## Requisitos Funcionais e Não Funcionais
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto Mão na Massa. Para determinar a prioridade dos requisitos foi aplicada a técnica MoSCoW, que é bastante comum em projetos ágeis pela simplicidade e clareza. Ela classifica os requisitos em quatro categorias:
+Nesta seção são apresentados os requisitos funcionais e não funcionais que detalham o escopo do projeto Mão na Massa. Para determinar a prioridade dos requisitos foi aplicada a técnica MoSCoW, que é bastante comum em projetos ágeis pela simplicidade e clareza. Ela classifica os requisitos em quatro categorias:
 
 - Must have (M) → Essenciais, sem eles o sistema não funciona (obrigatórios);
 - Should have (S) → Importantes, mas não críticos para a primeira entrega;
